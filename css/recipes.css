@@ -1,0 +1,15 @@
+.header {
+    font-size: xx-large;
+    color: rgb(56, 129, 68);
+    text-align: center;
+    background-color: #000000;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
